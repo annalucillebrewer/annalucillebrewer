@@ -1,5 +1,9 @@
 <h1>Hi, I'm Anna! <br/><a href="https://github.com/annalucillebrewer">Computer Science Student</a>
 
+<h2> Introduction: </h2>
+  
+<b> Welcome to my GitHub Portfolio! I am currently a junior enrolled in a Bachelor's Computer Science program at Southeast Missouri State University. I have taken courses covering the foundations of Python and Java. Here you will find two of my Python projects that have helped me understand the language. My goal is to continuously learn and apply new concepts, and I’m excited to bring my passion for coding and problem-solving to any professional opportunities that arise.</b>
+
 <h2> 👩‍💻Coding Projects:</h2>
 
 - <b>Python</b>
