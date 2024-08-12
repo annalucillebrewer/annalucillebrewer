@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anna! 
+<h1>Hi, I'm Anna! <br/><a href="https://github.com/annalucillebrewer">Computer Science Student</a>
 
 <h2> 👩‍💻Coding Projects:</h2>
 
